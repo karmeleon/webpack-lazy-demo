@@ -1,0 +1,28 @@
+{
+  "name": "webpack-lazy-demo",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "serve": "./node_modules/.bin/webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karmeleon/webpack-lazy-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karmeleon/webpack-lazy-demo/issues"
+  },
+  "homepage": "https://github.com/karmeleon/webpack-lazy-demo#readme",
+  "devDependencies": {
+    "webpack": "^5.61.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.4.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
